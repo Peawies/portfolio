@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Peaw's Portfolio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800&family=Instrument+Sans:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header><div class="wrap"><a class="brand" href="#top">Peaw</a><nav><a href="#work">Work</a><a href="#contact">Contact</a></nav></div></header>
+
+<main id="top">
+<section class="wrap hero">
+  <div>
+    <h1>Hey, I'm Peaw!</h1>
+    <p>I’m a freelance 3D artist creating mobs, items, models in Minecraft. I've worked with various teams before, notably <a href="https://teoncreative.com/" target="_blank" rel="noopener">TEON CREATIVE</a> and <a href="https://l3tcrafteducacion.com/en/minecraft-education/mundos-minecraft-education/" target="_blank" rel="noopener">Letcraft Educación</a>.</p>
+    <div class="btns"><a class="btn main" href="#work">See my work</a><a class="btn" href="#contact">Contact</a></div>
+  </div>
+  <div class="stage"><canvas id="hero" aria-label="Interactive 3D model you can rotate with your mouse or finger"></canvas></div>
+</section>
+
+<section class="wrap" id="work">
+  <div class="bar"><h2>Selected work</h2><div class="chips" id="chips" role="group" aria-label="Filter works"></div></div>
+  <div class="grid" id="grid"></div>
+</section>
+
+</main>
+
+<footer id="contact"><div class="wrap">
+  <p>End of portfolio.</p>
+  <p>Contact me for anything.<br><b>Discord:</b> peawies<br><b>Email:</b> talkwithpeaw@gmail.com</p><!--
+  <p class="links"><a href="https://www.youtube.com/@peawmoobloom">YouTube</a></p>-->
+</div></footer>
+
+<dialog id="dlg" aria-labelledby="dt"><button class="x" aria-label="Close" id="close">×</button><img id="di" alt=""><div class="dtext"><h3 id="dt"></h3><p id="dd"></p><p class="tools" id="dtool"></p><a class="btn main" id="dl" href="#" target="_blank" rel="noopener" hidden>Watch on YouTube</a></div></dialog>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="js/model-data.js"></script>
+<script src="js/works.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
