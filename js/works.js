@@ -35,6 +35,11 @@ var WORKS = [
   { title: 'Titanic Experience Bottle',   category: ['Items', 'Props'],  image: 'images/voxel/titanic_experience_bottle.png',   tools: 'Blockbench, Aseprite', description: 'An item from <em>Voxelization</em>.' },
   { title: 'Trick-or-Treat Bag',   category: ['Items', 'Props'],  image: 'images/voxel/trick_or_treat_bag.png',   tools: 'Blockbench, Aseprite', description: 'An item from <em><a href="https://www.youtube.com/watch?v=1p3-XhIfWqY" target="_blank" rel="noopener"><em>Voxelization</em></a></em>: a resource pack that adds new looks to 115 different items in <em>CraftersMC\'s SkyBlock</em> with 3D models and animations.' },
 
+  { title: 'Maya',   category: 'Mobs',  image: 'images/spirits/fish1.png',   tools: 'Blockbench, Aseprite', description: 'A fish model for one of the projects of <em>Letcraft Educación</em>.' },
+  { title: 'Niza',   category: 'Mobs',  image: 'images/spirits/fish2.png',   tools: 'Blockbench, Aseprite', description: 'A fish model for one of the projects of <em>Letcraft Educación</em>.' },
+  { title: 'Spirit',   category: 'Mobs',  image: 'images/spirits/spirit.gif',   tools: 'Blockbench, Aseprite', description: 'A "water spirit" NPC model, with <em>curious</em> animation, for one of the projects of <em>Letcraft Educación</em>.' },
+  { title: 'Spirit',   category: 'Mobs',  image: 'images/spirits/spiritfem.gif',   tools: 'Blockbench, Aseprite', description: 'A "water spirit" NPC model, with <em>surprised</em> animation, for one of the projects of <em>Letcraft Educación</em>.' },
+   
   { title: 'Teddy Bear',   category: ['Props'],  image: 'images/valentine/teddy.png',   tools: 'Blockbench, Aseprite', description: 'Teddy bear furnitures for <em>CraftersMC</em>\'s Valentine\'s Day Bundle.' },
   { title: 'Heart Balloon',   category: ['Props'],  image: 'images/valentine/heart.png',   tools: 'Blockbench, Aseprite', description: 'Heart balloon furnitures for <em>CraftersMC</em>\'s Valentine\'s Day Bundle.' },
   { title: 'Cherry Blossom Panda',   category: ['Mobs'],  image: 'images/valentine/panda.gif',   tools: 'Blockbench, Aseprite', description: 'Cherry Blossom Panda Pet Skin for <em>CraftersMC</em>\'s Valentine\'s Day Bundle, including animations.' },
