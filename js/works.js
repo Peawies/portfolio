@@ -64,6 +64,5 @@ var WORKS = [
   { title: 'Wither Gourd',   category: ['Mobs'],  image: 'images/halloween/gourd.png',   tools: 'Blockbench, Aseprite', description: 'A mob for <em>CraftersMC</em>\'s v0.5.1 update.' },
   { title: 'Mega Bat',   category: ['Mobs'],  image: 'images/halloween/mega.png',   tools: 'Blockbench, Aseprite', description: 'A mob for <em>CraftersMC</em>\'s v0.5.1 update.' },
   { title: 'Bat Piñata',   category: ['Mobs'],  image: 'images/halloween/pinata.png',   tools: 'Blockbench, Aseprite', description: 'A mob for <em>CraftersMC</em>\'s v0.5.1 update.' },
-  { title: 'Trick-or-Treater',   category: ['Mobs'],  image: 'images/halloween/trick.png',   tools: 'Blockbench, Aseprite', description: 'Variants of a mob for <em>CraftersMC</em>\'s v0.5.1 update.' },
-  { title: 'Crazy Witch',   category: ['Mobs'],  image: 'images/halloween/witch.png',   tools: 'Blockbench, Aseprite', description: 'A mob for <em>CraftersMC</em>\'s v0.5.1 update.' }
+  { title: 'Trick-or-Treater',   category: ['Mobs'],  image: 'images/halloween/trick.png',   tools: 'Blockbench, Aseprite', description: 'Variants of a mob for <em>CraftersMC</em>\'s v0.5.1 update.' }
 ];
