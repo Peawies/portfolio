@@ -33,7 +33,7 @@ var WORKS = [
   { title: 'Seal of the Oceans',   category: ['Items', 'Props'],  image: 'images/voxel/seal_of_the_oceans.png',   tools: 'Blockbench, Aseprite', description: 'An item from <em>Voxelization</em>.' },
   { title: 'Sky Badge',   category: ['Items', 'Props'],  image: 'images/voxel/sky_badge.png',   tools: 'Blockbench, Aseprite', description: 'An item from <em>Voxelization</em>.' },
   { title: 'Titanic Experience Bottle',   category: ['Items', 'Props'],  image: 'images/voxel/titanic_experience_bottle.png',   tools: 'Blockbench, Aseprite', description: 'An item from <em>Voxelization</em>.' },
-  { title: 'Trick-or-Treat Bag',   category: ['Items', 'Props'],  image: 'images/voxel/trick_or_treat_bag.png',   tools: 'Blockbench, Aseprite', description: 'An item from <em><a href="https://www.youtube.com/watch?v=1p3-XhIfWqY" target="_blank" rel="noopener"><em>Voxelization</em></a></em>: a resource pack that adds new looks to 115 different items in <em>CraftersMC\'s SkyBlock</em> with 3D models and animations.' },
+  { title: 'Trick-or-Treat Bag',   category: ['Items', 'Props'],  image: 'images/voxel/trick_or_treat_bag.png',   tools: 'Blockbench, Aseprite', description: 'An item from <em>Voxelization</em>.' },
 
   { title: 'Maya',   category: 'Mobs',  image: 'images/spirits/fish1.png',   tools: 'Blockbench, Aseprite', description: 'A fish model for one of the projects of <em>Letcraft Educación</em>.' },
   { title: 'Niza',   category: 'Mobs',  image: 'images/spirits/fish2.png',   tools: 'Blockbench, Aseprite', description: 'A fish model for one of the projects of <em>Letcraft Educación</em>.' },
